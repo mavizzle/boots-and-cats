@@ -1,5 +1,19 @@
-/* Heading 1 styles */
+/* Heading 1 styles for test class */
 h1.test {
   font-weight: bold;
   color: blue;
+}
+
+.sidebar {
+  text-align: left;
+  max-width: 150px;
+  float: left;
+}
+
+.sidebar a {
+  display: block;
+}
+
+.row {
+  float: right;
 }
